@@ -1,0 +1,4 @@
+steps\PrinterWithColorSteps.class
+steps\PrinterSteps.class
+acceptance\PrinterStories.class
+acceptance\StoryMap.class

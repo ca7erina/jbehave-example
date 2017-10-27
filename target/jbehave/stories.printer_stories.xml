@@ -1,0 +1,14 @@
+<story path="stories/printer_stories.story" title="">
+<meta>
+<property keyword="@" name="category" value="print1"/>
+</meta>
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="As a">user</inOrderTo>
+  <asA keyword="I want to">create a printer</asA>
+  <iWantTo keyword="So that">I can print</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Print something colorful">
+<step outcome="successful">Given I have a printer</step>
+<step outcome="successful">Then I can print</step>
+</scenario>
+</story>
